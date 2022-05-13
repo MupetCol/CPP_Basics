@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651607978 source:d:\c++yt\codeblocksone\main.cpp
+	<iostream>
+	"People.h"
+	"Birthday.h"
+
+1651605499 d:\c++yt\codeblocksone\include\people.h
+	<string>
+	"Birthday.h"
+
+1651605169 d:\c++yt\codeblocksone\include\birthday.h
+
+1651606187 source:d:\c++yt\codeblocksone\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1651606149 source:d:\c++yt\codeblocksone\src\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+

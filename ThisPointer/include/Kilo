@@ -1,0 +1,16 @@
+#ifndef KILO_
+#define KILO_
+
+
+class Kilo
+{
+    public:
+        Kilo();
+        virtual ~Kilo();
+
+    protected:
+
+    private:
+};
+
+#endif // KILO_

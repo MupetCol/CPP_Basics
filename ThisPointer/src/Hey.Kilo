@@ -1,0 +1,6 @@
+#include "Hey.Kilo"
+
+Hey::Hey()
+{
+    //ctor
+}

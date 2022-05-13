@@ -1,0 +1,15 @@
+#ifndef HEY_KILO
+#define HEY_KILO
+
+
+class Hey
+{
+    public:
+        Hey();
+
+    protected:
+
+    private:
+};
+
+#endif // HEY_KILO

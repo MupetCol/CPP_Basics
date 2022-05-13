@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1651618493 source:d:\c++yt\inheritance\child.cpp
+	"Parent.h"
+	"Child.h"
+	<iostream>
+
+1651618816 d:\c++yt\inheritance\parent.h
+
+1651619059 d:\c++yt\inheritance\child.h
+
+1651618793 source:d:\c++yt\inheritance\parent.cpp
+	"Parent.h"
+	"Child.h"
+	<iostream>
+
+1651618854 source:d:\c++yt\inheritance\main.cpp
+	"Parent.h"
+	"Child.h"
+	<iostream>
+

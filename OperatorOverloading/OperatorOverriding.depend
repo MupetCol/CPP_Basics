@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651617477 source:d:\c++yt\operatoroverriding\main.cpp
+	"Overrider.h"
+	<iostream>
+
+1651617296 d:\c++yt\operatoroverriding\overrider.h
+
+1651617521 source:d:\c++yt\operatoroverriding\overrider.cpp
+	"Overrider.h"
+	<iostream>
+

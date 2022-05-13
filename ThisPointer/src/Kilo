@@ -1,0 +1,11 @@
+#include "Kilo"
+
+Kilo::Kilo()
+{
+    //ctor
+}
+
+Kilo::~Kilo()
+{
+    //dtor
+}

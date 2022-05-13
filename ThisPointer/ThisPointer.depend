@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652321370 source:d:\c++yt\thispointer\main.cpp
+	<iostream>
+
+1651608800 d:\c++yt\thispointer\kilo.h
+
+1651609036 source:d:\c++yt\thispointer\kilo.cpp
+	<iostream>
+	"Kilo.h"
+
